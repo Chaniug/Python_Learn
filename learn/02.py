@@ -36,4 +36,5 @@ elif 40<= cript <=59:
     print("你的成绩为D")
 elif 0<= cript <=39:
     print("你的成绩为E")
+print(stu)
 
