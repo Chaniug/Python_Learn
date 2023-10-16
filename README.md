@@ -1,4 +1,4 @@
-# Python_Lean（自学向项目）
+# Python_Learn（自学向项目）
 ![](image/python-logo@2x.png)
 <br/>
 这是我日常代码发布的仓库。本仓库主要包含着Python学习代码。
