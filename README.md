@@ -1,10 +1,10 @@
-# Python_Learn（自学向项目） [](https://github.com/Chaniug/Python_Learn)
-![](image/python-logo@2x.png)
+# [Python_Learn（自学向项目） ](https://github.com/Chaniug/Python_Learn)
+![PYthonlogo](image/python-logo@2x.png)
 <br/>
 这是我日常代码发布的仓库。本仓库主要包含着Python学习代码。
 主要以自学为主，电子课本比较多。有兴趣一起自学的小伙伴们可以在仓库提交问题里面分享合适的书~
 
-## 仓库主要包含哪些内容 [](https://github.com/Chaniug/Python_Learn/tree/master/Code)
+##  [仓库主要包含哪些内容](https://github.com/Chaniug/Python_Learn/tree/master/Code)
 * 学习笔记
 * 课本习题作业代码
 * 直播课作业代码
