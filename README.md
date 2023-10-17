@@ -13,14 +13,14 @@
 在社会的大环境中不断充实自己，时刻保持自己的竞争力，充分利用自己的所学解决问题。
 
 我想，在高速发展的**AI时代**，我们更加需要不断学习，提升自己的竞争力，不被社会淘汰。
-##  [仓库主要包含哪些内容](https://github.com/Chaniug/Python_Learn/tree/master/Code)
+##  [仓库内容](https://github.com/Chaniug/Python_Learn/tree/master/Code)
 * [学习笔记](https://github.com/Chaniug/Python_Learn/tree/master/Note/write_note)
-* [课本习题作业代码](https://github.com/Chaniug/Python_Learn/tree/master/Code/TaskFile)
-* [直播课作业代码](https://github.com/Chaniug/Python_Learn/tree/master/Code/OnlieTask)
-* [自学的感想](https://github.com/Chaniug/Python_Learn/tree/master/Code/TestFile)
+* [课本习题作业](https://github.com/Chaniug/Python_Learn/tree/master/Code/TaskFile)
+* [直播课作业](https://github.com/Chaniug/Python_Learn/tree/master/Code/OnlieTask)
+* [课后感想](https://github.com/Chaniug/Python_Learn/tree/master/Code/TestFile)
 
 ### 学习笔记具体内容
-涵盖了Python学习的重点知识点问题，包含着基础语法，代码规范，错误演示等重点内容，相关部分的重点内容都会有所标注。
+涵盖了学习中的重点知识细节讲解，疑难点问题突破，包含着基础语法，代码规范，错误演示等重点内容，相关部分的重点内容都会有所标注。
 此外一些基础知识部分的内容在本仓库的展示中可能并不是完整的，希望小伙伴们可以见谅。
 ### 题库内容与代码提高
 
