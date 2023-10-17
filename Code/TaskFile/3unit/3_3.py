@@ -30,3 +30,4 @@ travels = city + rive + country
 print(travels)
 country.reverse()
 print(country)
+print(len(travels))
