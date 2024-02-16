@@ -13,7 +13,9 @@ student_list.remove('chen')
 student_list.append('chen')
 for stu in student_list:
     print(stu)
-
+'''
+name = input('name:')
+'''
 name = input('name:')
 age = input('age:')
 # f引用变量内容
