@@ -10,3 +10,5 @@ for magices in magics:
     print(f'{magices.title()}是最好的魔术师！')
 for magices in magics:
     print(f'{magices.title()}是最好的魔术师！')
+    print(f'{magices.title()}是最好的魔术师！')
+
