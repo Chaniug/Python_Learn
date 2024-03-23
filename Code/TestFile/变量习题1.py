@@ -11,7 +11,6 @@ s3 = 'hello, \'admin\''
 s4 = r'hello , "bart"'
 s4 = r'''hello,
 Lisa!'''
-
 print(n)
 print(f1)
 print(s1)
