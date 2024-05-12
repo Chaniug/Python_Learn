@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 client = OpenAI(
-    api_key="$your-dashscope-api-key",  # 替换成真实DashScope的API_KEY
+    api_key="sk-fbf83478aced465f99583f3e520f1a8b",  # 替换成真实DashScope的API_KEY
     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",  # 填写DashScope服务endpoint
 )
 completion = client.chat.completions.create(
