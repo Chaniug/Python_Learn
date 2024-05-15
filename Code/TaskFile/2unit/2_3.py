@@ -8,3 +8,4 @@ Hellomessage = "would you like to lean Python tody?"
 # 注意f的用法，使用花引号可以引用变量的内容
 print(f"{Onename} , {Hellomessage}")
 
+
