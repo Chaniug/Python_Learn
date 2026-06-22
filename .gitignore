@@ -1,0 +1,34 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# --- Virtual Environment ---
+venv/
+.env/
+.venv/
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Project Specific ---
+# 忽略日志/临时输出文件
+Code/TestFile/filetxt/output.txt
+Code/TestFile/filetxt/x.txt
+
+# 忽略 API Key（如果后续添加到单独配置文件中）
+*.env
+config.ini

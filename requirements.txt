@@ -1,0 +1,13 @@
+# Python 自学项目依赖
+# 安装方式: pip install -r requirements.txt
+
+# --- Web 自动化 ---
+selenium>=4.15.0
+
+# --- AI / API ---
+openai>=1.0.0
+
+# --- 基础工具（Python 标准库，无需安装） ---
+# random    - 随机数生成（抽奖、扑克牌）
+# turtle    - 基础图形绘制
+# typing    - 类型注解支持
